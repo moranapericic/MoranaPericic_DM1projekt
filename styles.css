@@ -10,7 +10,7 @@
   background-repeat: no-repeat;
         }
     @font-face {
-    font-family: "MoranaPericic", sans-serif;
+    font-family: "MoranaPericic";
         src: url("./font-Morana.ttf") format("truetype");
         }
 
